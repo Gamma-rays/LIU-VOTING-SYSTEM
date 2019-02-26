@@ -1,0 +1,140 @@
+body{
+	font-family: tahoma;
+	color: #006738;
+	margin: 0px;
+	padding: 0px;
+}
+/* ----THE PART OF THE CSS IS FOR THE LOGIN FORM --- */
+
+h1{
+	text-align: center;
+	padding-top: 0px;
+	padding-right: 25px;
+	padding-bottom: 0px;
+	font-size: 45px;
+
+}
+h5{
+	text-align: center;
+}
+
+#MainFrame{
+	padding-left:400px;
+	width: 600px;
+	font-size: 25px;
+	padding-top: 0px;
+	align-items: center;
+	font-size: 30px;
+
+
+}
+#userId{
+	padding-bottom: 2%;
+
+
+}
+#UserPassword{
+	padding-bottom: 5%;
+
+
+}
+
+input[type=email]{
+	width: 400px;
+	height: 40px;
+	font-size: 20px;
+	border-radius: 4px;
+
+}
+
+input[type=password]{
+	width: 400px;
+	height: 40px;
+	font-size: 20px;
+	border-radius: 4px;
+}
+
+input[type=text]{
+	width: 400px;
+	height: 40px;
+	font-size: 20px;
+	border-radius: 4px;
+
+
+}
+
+input[type=submit]{
+	width: 150px;
+	height: 40px;
+	border-radius: 4px;
+	background-color: #006738;
+	color: white;
+}
+
+#Fname{
+	padding-bottom: 2%;
+}
+#Lname{
+	padding-bottom: 2%;
+}
+#mail{
+	padding-bottom: 2%;
+}
+#crePword{
+	padding-bottom: 2%;
+}
+#ConPword{
+	padding-bottom: 2%
+}
+
+
+/* ----THE END OF THE CSS FOR THE LOGIN FORM --- */
+
+
+/* ---- THE CSS FOR THE PANEL START HERE ----*/
+
+img{
+	width: 85%;
+	height: 350px;
+	position: center;
+}
+
+
+#PanelTop{
+
+	width: 100%;
+}
+
+#PanelLefbar{
+	width: 20%;
+	float: left;
+}
+
+#PanelContent{
+	width: 60%;
+	float: left;
+	
+}
+#PanelRightbar{
+	width: 20%;
+	float: left;
+
+}
+#PanelBottom{
+	width: 59%;
+	padding-left: 280px;
+}
+button{
+	width: 250px;
+	height: 75px;
+	background-color: #006738;
+	color: white;
+	border-radius: 4px;
+}
+hr{
+	width: 100%;
+}
+
+/* ---- THE CSS FOR THE PANEL ENDS HERE ----*/
+
+
