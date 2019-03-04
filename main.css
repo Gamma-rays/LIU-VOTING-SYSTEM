@@ -1,6 +1,6 @@
 body{
 	font-family: tahoma;
-	color: #006738;
+	color: #405184;
 	margin: 0px;
 	padding: 0px;
 }
@@ -18,11 +18,17 @@ h5{
 	text-align: center;
 }
 
+form{
+
+	color: black;
+}
+
 #MainFrame{
-	padding-left:400px;
-	width: 600px;
-	font-size: 25px;
-	padding-top: 0px;
+	padding-left:270px;
+	width: 750px;
+	height: 400px;
+	font-size: 45px;
+	padding-top: 10px;
 	align-items: center;
 	font-size: 30px;
 
@@ -37,6 +43,9 @@ h5{
 	padding-bottom: 5%;
 
 
+}
+label{
+	color: black;
 }
 
 input[type=email]{
@@ -67,7 +76,7 @@ input[type=submit]{
 	width: 150px;
 	height: 40px;
 	border-radius: 4px;
-	background-color: #006738;
+	background-color: #405184;
 	color: white;
 }
 
@@ -87,6 +96,39 @@ input[type=submit]{
 	padding-bottom: 2%
 }
 
+#signIN{
+	width: 175px;
+	float: left;
+
+
+
+}
+#signUp{
+	width: 175px;
+	float: left;
+
+}
+#Forgot_password{
+	width: 175px;
+	float: left;
+
+}
+
+#canel{
+	width: 175px;
+	float: left;
+}
+#backy{
+	width: 175px;
+	float: left;
+}
+select{
+	width: 250px;
+	height:50px ;
+	color: black;
+	padding-bottom: 2%;
+
+}
 
 /* ----THE END OF THE CSS FOR THE LOGIN FORM --- */
 
@@ -94,7 +136,7 @@ input[type=submit]{
 /* ---- THE CSS FOR THE PANEL START HERE ----*/
 
 img{
-	width: 85%;
+	width: 70%;
 	height: 350px;
 	position: center;
 }
@@ -127,14 +169,39 @@ img{
 button{
 	width: 250px;
 	height: 75px;
-	background-color: #006738;
+	background-color: #405184;
 	color: white;
 	border-radius: 4px;
 }
 hr{
 	width: 100%;
 }
+footer{
+	color: black;
+}
+
 
 /* ---- THE CSS FOR THE PANEL ENDS HERE ----*/
+
+/* ---- THE CSS FOR THE REGISTARTION PAGE STARTS HERE ----*/
+
+
+#Sgining{
+	width: 175px;
+	float: left;
+	padding-top: 25px;
+
+
+}
+#backy{
+	width: 175px;
+	float: left;
+	padding-top: 25px;
+}
+#Falculty{
+	font-size: 50px;
+}
+
+/* ---- THE CSS FOR THE REGISTRATION PAGE ENDS HERE ----*/
 
 

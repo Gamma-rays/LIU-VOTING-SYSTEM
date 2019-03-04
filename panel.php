@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en US">
 <head>
-	<title>Login page</title>
+	<title>Voter Panel</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" type="text/css" href="main.css">
@@ -21,7 +21,7 @@
 		
 		</div>
 		<div id = PanelContent>
-			<img src="liuLogo.png" alt="Hmmm!! Couldn't Load this image">
+			<img src="logo.jpg" alt="Hmmm!! Couldn't Load this image">
 		</div>
 		<div id = PanelRightbar>
 			<button>Student Profiles</button><br><br>
